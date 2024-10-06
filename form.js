@@ -52,7 +52,6 @@ return false;
 
  else
  { 
-alert.("form submit successfully");
- return true;
+ true;
  }
 }
